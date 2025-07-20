@@ -27,7 +27,7 @@ git push origin branch_name     : to upload changes from local to rmeote reposit
 git status                      : shows the current status of your working directory and staging area
 
 git log                         : to get the history of commits
-git log --online                : to get the history of commits
+git log --oneline                : to get the history of commits
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
